@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../CA"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../../확랜/Probability and R.V"
+		},
+		{
+			"path": "../../../../../miniforge3/envs/newenv"
+		}
+	],
+	"settings": {}
+}
