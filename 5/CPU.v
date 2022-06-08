@@ -1,4 +1,4 @@
-module Add_PC(IN, OUT);
+module Add_PC(IN, OUT); //IF Adder
 input IN;
 output OUT;
 
