@@ -6,7 +6,7 @@ assign OUT = IN + 4;
 
 endmodule
 
-module MUX_Branch(Signal, IN_A, IN_B, OUT);
+module MUX_Branch(Signal, IN_A, IN_B, OUT); //Branch의 조건 확인하는 MUX
 input Signal;
 input IN_A, IN_B;
 output OUT;
